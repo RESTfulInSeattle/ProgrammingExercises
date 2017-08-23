@@ -1,0 +1,6 @@
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\bin\Debug\ProgrammingExercises.exe.config
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\bin\Debug\ProgrammingExercises.exe
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\bin\Debug\ProgrammingExercises.pdb
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\obj\Debug\ProgrammingExercises.csprojResolveAssemblyReference.cache
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\obj\Debug\ProgrammingExercises.exe
+D:\GitHub\ProgrammingExercises\ProgrammingExercises\obj\Debug\ProgrammingExercises.pdb
